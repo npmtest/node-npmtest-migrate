@@ -1,4 +1,7 @@
-# test coverage for  [migrate (v0.2.3)](https://github.com/visionmedia/node-migrate#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-migrate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-migrate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-migrate.svg)](https://travis-ci.org/npmtest/node-npmtest-migrate)
+# npmtest-migrate
+
+#### test coverage for  [migrate (v0.2.3)](https://github.com/visionmedia/node-migrate#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-migrate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-migrate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-migrate.svg)](https://travis-ci.org/npmtest/node-npmtest-migrate)
+
 #### Abstract migration framework for node
 
 [![NPM](https://nodei.co/npm/migrate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/migrate)
